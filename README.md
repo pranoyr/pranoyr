@@ -1,16 +1,87 @@
-### Hi there 👋
+# Welcome 🙋🏻‍♂️
 
-<!--
-**pranoyr/pranoyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Pranoy Radhakrishnan,
+ I am working as a Machine Learning Engineer. 
 
-Here are some ideas to get you started:
+<h3>💼 Things that I'm currently working on:</h3>
+<details>
+  <summary>I'm currently working on implementing some of the state-of-the-art transformer models. </summary>
+<!--   <ul>
+    <br>
+    <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
+    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
+    <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
+    <li>AInquiring more about UX/UI.</li>
+    <li>🔜</li>
+  </ul> -->
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Challenges that I’m currently challenging myself:
+<details>
+  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
+  <ul>
+    <br>
+    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
+    <li>Avoid over using social media</li>
+    <li>Read more books</li>
+    <li>Adopting the minimalism life style</li>
+    <li>🔜</li>
+  </ul>
+</details>
+
+
+
+**Languages and Frameworks:**
+<p align="left">
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;</code>&nbsp;
+</p>
+
+**Connect with me:**
+<p align="left">
+  <a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/onlyvatana23?si=-McUZw0zTj-a8SvbVe1qZA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.goodreads.com/user/show/83098234-vatana-chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
+
+Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
+
+<details>
+  <summary>✨ Github Stats</summary>
+  <br>
+  <img align="left" alt="Pranoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranoyr&show_icons=true&theme=dracula" />
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</details>
+<details>
+  <summary>🔥 Top languages</summary>
+  <br>
+  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula" /> <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</details>
+
+-----
+Credits: [VatanaChhorn](https://github.com/VatanaChhorn)
+
+Last Edited on: 03/09/2020
