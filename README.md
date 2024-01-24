@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranoy Radhakrishnan</h1>
 
 
-<p align="left"> <a href="https://twitter.com/pranoykrishnan" target="blank"><img src="https://img.shields.io/twitter/follow/pranoykrishnan?logo=twitter&style=for-the-badge" alt="pranoykrishnan" /></a> </p>
-
 - 🔭 I’m currently working on [Implementing Transformer based models from scratch](https://github.com/pranoyr/ml-from-scratch)
 
 - 📫 How to reach me **pranoyalkr@gmail.com**
