@@ -1,2 +1,2 @@
 ### Hi there 👋
-Just working on some open source regarding Attention models and Diffusion models.
+Just working on some Open Source Projects regarding Attention and Diffusion models.
